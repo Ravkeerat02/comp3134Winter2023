@@ -1,0 +1,12 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# traceroute 157.240.3.35
+traceroute to 157.240.3.35 (157.240.3.35), 30 hops max, 60 byte packets
+ 1  162.243.190.7 (162.243.190.7)  1.838 ms 162.243.190.5 (162.243.190.5)  2.351 ms  2.326 ms
+ 2  138.197.249.84 (138.197.249.84)  2.310 ms 138.197.249.76 (138.197.249.76)  5.456 ms 138.197.249.80 (138.197.249.80)  2.276 ms
+ 3  138.197.249.90 (138.197.249.90)  4.921 ms 138.197.249.78 (138.197.249.78)  4.906 ms  4.890 ms
+ 4  toro-b1-link.ip.twelve99.net (62.115.55.29)  2.214 ms toro-b1-link.ip.twelve99.net (62.115.9.209)  2.199 ms  2.185 ms
+ 5  chi-b23-link.ip.twelve99.net (62.115.136.246)  13.818 ms  11.544 ms  53.013 ms
+ 6  sea-b2-link.ip.twelve99.net (62.115.117.48)  56.490 ms  55.397 ms  57.675 ms
+ 7  facebook-ic337887-sea-b2.ip.twelve99-cust.net (62.115.45.19)  56.875 ms facebook-ic337889-sea-b2.ip.twelve99-cust.net (62.115.54.129)  56.861 ms facebook-ic337886-sea-b2.ip.twelve99-cust.net (62.115.41.223)  85.215 ms
+ 8  po104.psw03.sea1.tfbnw.net (157.240.48.55)  58.058 ms po103.psw04.sea1.tfbnw.net (173.252.65.197)  54.268 ms po103.psw02.sea1.tfbnw.net (173.252.65.141)  56.798 ms
+ 9  157.240.38.221 (157.240.38.221)  56.786 ms 157.240.38.199 (157.240.38.199)  54.296 ms 173.252.67.125 (173.252.67.125)  56.757 ms
+10  edge-star-mini-shv-01-sea1.facebook.com (157.240.3.35)  56.743 ms  55.533 ms  55.495 ms

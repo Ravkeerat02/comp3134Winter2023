@@ -1,0 +1,30 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 99.79.139.11
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-20 06:53 UTC
+Nmap scan report for ec2-99-79-139-11.ca-central-1.compute.amazonaws.com (99.79.139.11)
+Host is up (0.0092s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.12 seconds
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 22 99.79.139.11
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-20 06:53 UTC
+Nmap scan report for ec2-99-79-139-11.ca-central-1.compute.amazonaws.com (99.79.139.11)
+Host is up (0.0099s latency).
+
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.13 seconds
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F https://www.instagram.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-20 06:55 UTC
+Unable to split netmask from target expression: "https://www.instagram.com"
+WARNING: No targets were specified, so 0 hosts scanned.
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.07 seconds
+
+
