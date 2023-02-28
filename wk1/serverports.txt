@@ -1,0 +1,18 @@
+What is the definition of server port?
+Answer: Endpoints of a network connection that is used to exchange information between two ends the web server and the web client.
+What is server port range?
+Answer: Port number tanges from 0-65536
+ How many bits does number above represent?
+Answer: Port number is a 16 bit integer ranging from 0-65536
+State 10 common server ports
+Answer: Common server ports are as follows:
+Port 20 - File Transfer Protocol (FTP) Data Transfer
+Port 21 - File Transfer Protocol (FTP) Command Control
+Port 22 - Secure Shell (SSH)
+Port 23 - Telnet - Remote login service, unencrypted text messages
+Port 25 - Simple Mail Transfer Protocol (SMTP) E-mail Routing
+Port 53 - Domain Name System (DNS) service
+Port 80 - Hypertext Transfer Protocol (HTTP) used in World Wide Web
+Port 143 - Internet Message Access Protocol (IMAP) Management of Digital Mail
+Port 161 - Simple Network Management Protocol (SNMP)
+Port 443 - HTTP Secure (HTTPS) HTTP over TLS/SSL

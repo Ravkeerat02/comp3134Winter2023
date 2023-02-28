@@ -1,0 +1,101 @@
+Domain name are as follows:
+- https://www.georgebrown.ca/
+Registrar
+Name Webnames.ca Inc.
+Whois Server whois.ca.fury.ca
+Referral URLwww.webnames.ca
+Status clientTransferProhibited https://icann.org/epp#clientTransferProhibited 
+Important Dates
+Expires On 2023-07-04
+Registered On 2002-07-04
+Updated On 2022-10-22
+Name Servers
+ns1.d-zone.ca162.219.54.2
+ns1.georgebrown.ca198.96.86.35
+ns2.d-zone.ca162.219.55.2
+ns2.georgebrown.ca198.96.87.135
+
+- https://www.msn.com
+Registrar Info
+Name MarkMonitor, Inc.
+Whois Server whois.markmonitor.com
+Referral URL http://www.markmonitor.com
+Status
+clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Important Dates
+Expires On 2023-06-04.
+Registered On 1994-11-10.
+Updated On 2022-05-04.
+Name Servers
+dns1.p09.nsone.net 198.51.44.9
+ns1-204.azure-dns.com 40.90.4.204
+ns2-204.azure-dns.net 64.4.48.204
+ns3-204.azure-dns.org 13.107.24.204
+ns4-204.azure-dns.info 13.107.160.204
+	
+- https://www.youtube.com 
+Name MarkMonitor, Inc.
+Whois Server whois.markmonitor.com  
+Referral URL http://www.markmonitor.com 
+Status
+clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited) 
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited) 
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited) 
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited) 
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited) 
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Important Dates
+Expires On 2024-02-15.
+Registered On 2005-02-15.
+Updated On 2023-01-14.
+Name Servers
+ns1.google.com 216.239.32.10
+ns2.google.com 216.239.34.10
+ns3.google.com 216.239.36.10
+ns4.google.com 216.239.38.10
+
+- https://www.apple.com/
+Name CSC CORPORATE DOMAINS, INC.
+Whois Server whois.corporatedomains.com
+Referral URL www.cscprotectsbrands.com
+Status
+clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited 
+serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited 
+serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited 
+serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Important Dates
+Expires On 2023-02-20.
+Registered On 1987-02-19.
+Updated On 2022-02-16.
+Name Servers
+a.ns.apple.com 17.253.200.1
+b.ns.apple.com 17.253.207.1
+c.ns.apple.com 204.19.119.1
+d.ns.apple.com 204.26.57.1
+
+- https://www.samsung.com/
+Registrar Info
+Name Whois Corp.
+Whois Server whois.whois.co.kr
+Referral URL http://www.whois.co.kr 
+Status
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited 
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Important Dates
+Expires On 2025-11-28
+Registered On 1994-11-29
+Updated On 2021-06-12
+Name Servers
+dns-awskr1.samsung.com 52.79.211.80
+dns-gi1.samsung.com 203.241.132.185
+dnssm.samsung.com 203.241.132.51
+dnssm2.samsung.com 112.107.53.58
+dnsst.samsung.com 203.241.135.51
+dnsst2.samsung.com 112.106.53.58
+ 
+
