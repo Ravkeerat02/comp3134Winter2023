@@ -1,0 +1,23 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# sudo service apache2 start
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# sudo service apache2 stop
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# sudo service apache2 status
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
+     Active: inactive (dead) since Fri 2023-03-03 07:01:39 UTC; 11s ago
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 459844 ExecReload=/usr/sbin/apachectl graceful (code=exited, status=0/SUCCESS)
+    Process: 471344 ExecStop=/usr/sbin/apachectl stop (code=exited, status=0/SUCCESS)
+   Main PID: 842 (code=exited, status=0/SUCCESS)
+
+Mar 02 00:00:15 lamp-ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Reloading The Apache HTTP Server.
+Mar 02 00:00:15 lamp-ubuntu-s-1vcpu-1gb-tor1-01 apachectl[448846]: AH00558: apache2: Could not reliably determine the s>
+Mar 02 00:00:15 lamp-ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Reloaded The Apache HTTP Server.
+Mar 03 00:00:15 lamp-ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Reloading The Apache HTTP Server.
+Mar 03 00:00:16 lamp-ubuntu-s-1vcpu-1gb-tor1-01 apachectl[459848]: AH00558: apache2: Could not reliably determine the s>
+Mar 03 00:00:16 lamp-ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Reloaded The Apache HTTP Server.
+Mar 03 07:01:39 lamp-ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Stopping The Apache HTTP Server...
+Mar 03 07:01:39 lamp-ubuntu-s-1vcpu-1gb-tor1-01 apachectl[471346]: AH00558: apache2: Could not reliably determine the s>
+Mar 03 07:01:39 lamp-ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: apache2.service: Succeeded.
+Mar 03 07:01:39 lamp-ubuntu-s-1vcpu-1gb-tor1-01 systemd[1]: Stopped The Apache HTTP Server.
+
+----------------------------------------------------------------------------------------------- 
