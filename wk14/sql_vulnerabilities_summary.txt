@@ -1,0 +1,5 @@
+1 - When word Ben is typed(searched) in the form. It just shows the name appear in the url link as `http://159.203.12.21/wk14/getusers_1.php?firstname=Ben`
+
+2 - When word(phrase) Ben’-- is typed(searched) in the form . It shows the same result as the first one. It appeas in the url link as `http://159.203.12.21/wk14/getusers_1.php?firstname=Ben%E2%80%99--`
+
+3 - When word(phrase_ Ben’ or 1=1 is typed(searched) in the form . It takes a while to run . But when it appears in the url link it appears in the form of UNICODE `http://159.203.12.21/wk14/getusers_1.php?firstname=Ben%E2%80%99+or+1%3D1`
